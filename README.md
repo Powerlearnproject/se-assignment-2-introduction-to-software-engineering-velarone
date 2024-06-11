@@ -6,10 +6,10 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:this is the branch of computer science that deals with the design the development testing and maintainace of software applications
 
-What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+What is software engineering, and how does it differ from traditional programming?software engineering procces is a process that majorly involves computer science,information technology znd descrete mathematics
+Software Development Life Cycle (SDLC):consists of steps such as requirement analysis ,estimating feseability,designing,coding,document,test,deployment,and maintainace
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
